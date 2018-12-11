@@ -1,13 +1,1 @@
- Volume in drive C is Windows8_OS
- Volume Serial Number is E0AA-C604
-
- Directory of C:\Users\SHAW-IN-101\Desktop\My Git
-
-06-12-2018  15:26    <DIR>          .
-06-12-2018  15:26    <DIR>          ..
-03-12-2018  18:14                53 thaz.html
-06-12-2018  15:20                82 thaz.txt
-06-12-2018  15:24               445 thazu.html
-06-12-2018  15:26                 0 thazu.txt
-               4 File(s)            580 bytes
-               2 Dir(s)  43,906,080,768 bytes free
+New line1
